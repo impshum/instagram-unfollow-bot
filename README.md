@@ -1,6 +1,8 @@
 # instagram-unfollow-bot
 Unfollows all users apart from those specified in a whitelist.
 
+![](https://github.com/impshum/instagram-unfollow-bot/blob/master/ss.jpg)
+
 ### Instructions
 
 - Install Python 3 (**add to PATH**)
