@@ -6,6 +6,7 @@ Unfollows all users apart from those specified in a whitelist.
 ### Instructions
 
 - Install Python 3 (**add to PATH**)
+- Download or clone this repository
 - Install requirements ```pip install -r requirements.txt```
 - Edit the top of run.py with your details
 - Run it ```python run.py```
