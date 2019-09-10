@@ -56,7 +56,6 @@ def instaspam(api, limit):
                 print(f'{C.G}{a+1}{C.W}/{C.Y}{limit}{C.W}/{C.P}{b}{C.W} {username}')
                 if not test_mode:
                     api.unfollow(pk)
-                    break
                     sleep(randint(min_sleep, max_sleep))
                 else:
                     sleep(0.2)
