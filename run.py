@@ -80,6 +80,7 @@ Unfollowing {C.G}{daily_limit}{C.W} users every day at {C.G}{schedule_time}{C.W}
     api = InstagramAPI(instauser, instapass)
     api.login()
     if not test_mode:
+        instaspam(api, daily_limit)
         schedule.every().day.at(schedule_time).do(
             instaspam, api=api, limit=daily_limit)
         while True:
