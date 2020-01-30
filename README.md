@@ -21,4 +21,6 @@ How to print colours in terminal/prompt on Windows: https://recycledrobot.co.uk/
 - Recommended max daily limit - 100
 - Recommended min wait time - 15
 
-###### Have fun! x
+### Tip
+
+BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
